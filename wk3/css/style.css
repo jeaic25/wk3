@@ -1,0 +1,45 @@
+/* Part 3 */
+body {
+  background-color: rgb(245, 245, 255);
+}
+
+h2 {
+  color: rgb(255, 0, 0);
+  text-decoration: underline;
+}
+
+div {
+  margin: 40px;
+  border: 4px dashed rgb(0, 0, 0);
+}
+
+/* Part 4 */
+div {
+  border: 5px solid rgb(0, 0, 0);
+}
+
+/* Part 5 */
+div {
+  width: 30%;
+  display: inline-block;
+}
+
+/* Part 6 */
+body {
+  background: rgb(200, 200, 200);
+}
+
+div {
+  background-color: lightyellow;
+}
+
+/* Extra (optional for looks) */
+dt, dd {
+  display: inline-block;
+  padding: 4px 8px;
+  min-width: 40%;
+}
+
+dt {
+  font-weight: bold;
+}
