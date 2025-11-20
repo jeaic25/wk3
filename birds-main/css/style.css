@@ -15,7 +15,7 @@ a {font-size: 16px;
   }
 
   body {
-background-image: url(/images/pigeon-background.jpg);
+background-image: url("images/pigeon-background.jpg");
   margin: 0;
    background-size: cover;
 fallback: #DDDDDD;
@@ -87,6 +87,7 @@ border-bottom-left-radius: 20px;
 tbody tr:last-child td:last-child{
 border-bottom-right-radius: 20px;
 }
+
 
 
    /* <img src="/images/picture.jpg"> */
