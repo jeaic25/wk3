@@ -17,7 +17,7 @@ a {font-size: 16px;
 
 body {
   margin: 0;
-  background-image: url("images/pigeon-background.jpg");
+ background-image: url("../images/pigeon-background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -95,6 +95,7 @@ border-bottom-right-radius: 20px;
 
 
    /* <img src="/images/picture.jpg"> */
+
 
 
 
